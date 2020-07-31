@@ -1,0 +1,14 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "Coding practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Reece Lewellen",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
