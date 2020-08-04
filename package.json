@@ -4,12 +4,16 @@
   "description": "Coding practice",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "ts": "tsc app.ts"
   },
   "author": "Reece Lewellen",
   "license": "MIT",
   "dependencies": {
     "mocha": "^8.1.0",
     "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "@types/yargs": "^15.0.5"
   }
 }
