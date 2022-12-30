@@ -10,7 +10,7 @@
   "author": "Reece Lewellen",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^8.1.0",
+    "mocha": "^8.4.0",
     "yargs": "^15.4.1"
   },
   "devDependencies": {
